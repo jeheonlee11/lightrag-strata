@@ -1,0 +1,5 @@
+lightrag-hku>=1.5.7
+fastembed>=0.9
+pypdf>=5
+# StrataDB (vector + graph store):
+# pip install git+https://github.com/jeheonlee11-create/stratadb@v0.7.0
