@@ -27,7 +27,7 @@ Python 3.10–3.12.
 ```bash
 python3.11 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-pip install git+https://github.com/jeheonlee11-create/stratadb@v0.8.0
+pip install git+https://github.com/jeheonlee11-create/stratadb@v0.9.0
 ```
 
 For the default LLM backend, install [Claude Code](https://claude.com/claude-code) and sign in once
